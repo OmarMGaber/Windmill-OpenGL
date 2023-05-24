@@ -1,7 +1,16 @@
-/*
+/**
  * GLUT Shapes Demo
  *
  * Written by Nigel Stewart November 2003
+ *
+ *
+ *
+ * Author: Omar Muhammad Gaber Ahmed (20221446137)
+ * Turing Machine Simulator Project
+ * Theory of Computation Course
+ * Department of Mathematics and Computer Science, Faculty of Science, Alexandria University
+ *
+ *
  *
  * This program is test harness for the sphere, cone
  * and torus shapes in GLUT.
@@ -10,7 +19,7 @@
  * displayed until the ESC or q key is pressed.  The
  * number of geometry stacks and slices can be adjusted
  * using the + and - keys.
- */
+ **/
 #include<windows.h>
 #ifdef __APPLE__
 #include <GLUT/glut.h>
@@ -75,6 +84,7 @@ static double a = 1;
 static double c = 1;
 
 static void grass(){
+    /** Omar Muhammad Gaber **/
     for (double i = 0, j = -3.9; i < 10; i++){
         for (double k = -17; k < 6; k+=0.3){
         start

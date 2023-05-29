@@ -6,8 +6,8 @@
  *
  *
  * Author: Omar Muhammad Gaber Ahmed (20221446137)
- * Turing Machine Simulator Project
- * Theory of Computation Course
+ * Lab Work assignment
+ * Computer Graphics Course
  * Department of Mathematics and Computer Science, Faculty of Science, Alexandria University
  *
  *
